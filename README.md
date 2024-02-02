@@ -1,7 +1,5 @@
 # AI-Lite-cooling-system  
 
----
-
 ## Overview
 Since AI-Lite has transitioned into a commercialized product, only the prototype code has been made open source. Additionally, a segment of real experimental data from physical clusters is provided.
 

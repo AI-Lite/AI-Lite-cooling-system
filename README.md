@@ -17,7 +17,7 @@ The aforementioned files are used to simulate the data center environment.
 gaussian_bandit.py
 gaussian_ucb_agent.py
 gp_ucb.py
-######################
+
 Advanced_PG.py
 Advanced_PG_test.py
 Advanced_PPO.py
